@@ -1,2 +1,2 @@
 # meetupFixturesFaker
-Code shown at one of mine PHP Meetup presentations 
+Code shown at one of my PHP Meetup presentations 
